@@ -12,5 +12,5 @@ I listen to many differnt genres and artists. Some of my favorite artists are Th
 
 ## Image
 
-![my image](My Collage.jpg)
+![my image](Collage.png)
 
